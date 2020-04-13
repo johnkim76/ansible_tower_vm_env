@@ -1,0 +1,13 @@
+
+ansible-node1.example.com
+ansible-node2.example.com
+ansible-node3.example.com
+
+[web]
+ansible-node1.example.com
+
+[dev]
+ansible-node2.example.com
+
+[prod]
+ansible-node3.example.com
