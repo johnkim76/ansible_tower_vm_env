@@ -6,7 +6,7 @@ This [Example Ansible Project](https://github.com/johnkim76/ansible-poc-demo/tre
 
 ## Prerequisite
 
-* vagrant installed
+* [vagrant](https://code2bits.com/how-to-install-vagrant-on-macos-using-homebrew/) installed
 * [vagrant-hosts plugin](https://github.com/oscar-stack/vagrant-hosts) installed (***vagrant plugin install vagrant-hosts***)
 * virtual box installed (provider)
 
