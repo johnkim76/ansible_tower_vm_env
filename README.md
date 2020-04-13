@@ -10,6 +10,13 @@ This [Example Ansible Project](https://github.com/johnkim76/ansible-poc-demo/tre
 * [vagrant-hosts plugin](https://github.com/oscar-stack/vagrant-hosts) installed (***vagrant plugin install vagrant-hosts***)
 * virtual box installed (provider)
 
+## Clone the repo
+
+```bash
+$ git clone https://github.com/johnkim76/ansible_tower_vm_env.git
+$ cd ansible_tower_vm_env
+```
+
 ## Bring up the Vagrant Environment
 
 ```bash
